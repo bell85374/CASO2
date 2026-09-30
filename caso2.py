@@ -1,2 +1,2 @@
-Nombre="Miguel"
-print("Nombre")
+Nombre="Daniel"
+print(Nombre)
