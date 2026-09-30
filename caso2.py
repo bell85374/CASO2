@@ -1,2 +1,1 @@
-Nombre="Miguel"
-print("Nombre")
+print("HELLO")
